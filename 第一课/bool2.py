@@ -1,4 +1,3 @@
 i = 10
 while i:
-    print('我爱鱼C!')
-    i = i - 1
+    print('我爱"鱼"C!');i = i - 1
